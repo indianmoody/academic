@@ -1,0 +1,1 @@
+Created a sentiment analysis classifier using the Natural Language Toolkit classifier module.
