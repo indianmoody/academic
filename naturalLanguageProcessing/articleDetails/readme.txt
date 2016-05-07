@@ -1,0 +1,1 @@
+python program that accepts as input a plain text newspaper article and returns the number of paragraphs, sentences, and words contained in the article.
