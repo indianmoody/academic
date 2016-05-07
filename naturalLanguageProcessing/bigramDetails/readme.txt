@@ -1,0 +1,1 @@
+Creating unigram and bigram models with and without smoothing. Calculating the probabilities in logarithms.
