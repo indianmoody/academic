@@ -1,0 +1,1 @@
+Vector of expected payoffs for player 2 under player 1's strategy and vice versa.
